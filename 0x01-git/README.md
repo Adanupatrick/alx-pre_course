@@ -1,2 +1,1 @@
-My first readme file 
-now working
+My first readme file
